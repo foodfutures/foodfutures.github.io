@@ -2158,7 +2158,7 @@ input, select, textarea {
 		color: inherit;
 		cursor: pointer;
 		display: inline-block;
-		font-size: 1.2em;
+		font-size: 1.1em;
 		font-weight: 900;
 		letter-spacing: 2px;
 		min-width: 18em;
@@ -2577,7 +2577,6 @@ input, select, textarea {
 
 			#banner .inner header {
 				display: inline-block;
-				border-bottom: solid 2px;
 				border-top: solid 2px;
 				margin: 0 0 2em 0;
 				padding: 3px 0 3px 0;
@@ -3359,4 +3358,9 @@ input, select, textarea {
 				height: 34px;
 			}
 
+	}
+
+	.cites{
+		text-align: left;
+		list-style-type: none;
 	}
